@@ -3,4 +3,4 @@
 -lsfml-window
 -lsfml-system
 
--std=c++11
+compiler setting: -std=c++11
